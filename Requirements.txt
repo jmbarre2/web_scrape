@@ -15,7 +15,7 @@ Ghost.py==0.2.3
 jmespath==0.9.0
 matplotlib==2.0.0
 mplayer.py==0.7.1
-numpy==1.11.3+mkl
+numpy==1.22.0
 packaging==16.8
 pandas==0.19.2
 patsy==0.4.1
